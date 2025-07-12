@@ -2,3 +2,27 @@ html {
   height: 100%;
   width: 100%;
 }
+.navbar a {
+  background-color : #79021c; /* Dark red */
+  color: white;
+  padding: 10px; /* Add some spacing */
+}
+
+  .navbar a {
+  color: white;
+    text-decoration: none; /* Remove underlines */
+    padding: 10px;
+  }
+
+.navbar a:hover {
+  background-color: #3d010e; /* Darker red on hover */
+}
+
+p2 {
+  font-size: 22px; /* Make p2 text larger */
+  line-height: 1.5; /* Add better line spacing */
+}
+
+p {
+  font-size: 18px; /*Standard size for regular paragraphs */
+}
